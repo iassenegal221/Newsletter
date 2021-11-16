@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Commonly used Machine Learning Algorithms (with Python and R Codes)</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -86,14 +86,26 @@
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Overview
 
-Use the `BLANK_README.md` to get started.
+* Major focus on commonly used machine learning algorithms
+* Algorithms covered- Linear regression, logistic regression, Naive Bayes, kNN, Random forest, etc.
+* Learn both theory and implementation of these algorithms in R and python
+
+Introduction
+
+Google’s self-driving cars and robots get a lot of press, but the company’s real future is in machine learning, the technology that enables computers to get smarter and more personal.
+
+– Eric Schmidt (Google Chairman)
+
+We are probably living in the most defining period of human history. The period when computing moved from large mainframes to PCs to the cloud. But what makes it defining is not what has happened, but what is coming our way in years to come.
+
+What makes this period exciting and enthralling for someone like me is the democratization of the various tools and techniques, which followed the boost in computing. Welcome to the world of data science!
+
+Today, as a data scientist, I can build data-crunching machines with complex algorithms for a few dollars per hour. But reaching here wasn’t easy! I had my dark days and nights.
+
+Are you a beginner looking for a place to start your data science journey? Presenting a list of comprehensive courses, full of knowledge and data science learning, curated just for you to learn data science (using Python) from scratch:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
