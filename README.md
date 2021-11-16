@@ -82,18 +82,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Offres de formations IAS][Offres-de-formations-IAS]](https://www.ias.sn/nos-formations)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 
-Overview
+## Overview
 
 * Major focus on commonly used machine learning algorithms
 * Algorithms covered- Linear regression, logistic regression, Naive Bayes, kNN, Random forest, etc.
 * Learn both theory and implementation of these algorithms in R and python
 
-Introduction
+## Introduction
 
 Google’s self-driving cars and robots get a lot of press, but the company’s real future is in machine learning, the technology that enables computers to get smarter and more personal.
 
