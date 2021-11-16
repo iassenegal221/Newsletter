@@ -89,7 +89,21 @@ Aujourd'hui, en tant que scientifiques des données, nous pouvons construire des
 Cet algorithme consiste en une variable cible/résultat (ou variable dépendante) qui doit être prédite à partir d'un ensemble donné de prédicteurs (variables indépendantes). En utilisant cet ensemble de variables, nous générons une fonction qui associe les entrées aux sorties souhaitées. Le processus de formation se poursuit jusqu'à ce que le modèle atteigne un niveau de précision souhaité sur les données de formation. Exemples d'apprentissage supervisé : régression, arbre de décision, forêt aléatoire, KNN, régression logistique, etc.
 
 
+.png
+<div align="center">
+  <a href="hhttps://www.ias.sn/">
+    <img src="machinelearning_supervisedunsupervised" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Commonly used Machine Learning Algorithms (with Python and R Codes)</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://www.ias.sn/"><strong>Institut des Algorithmes du Sénégal</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
