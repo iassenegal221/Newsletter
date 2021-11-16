@@ -90,7 +90,7 @@ Cet algorithme consiste en une variable cible/résultat (ou variable dépendante
 
 
 <div align="center">
-    <img src="machinelearning_supervisedunsupervised.png" alt="Logo" width="80" height="80">
+    <img src="machinelearning_supervisedunsupervised.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
