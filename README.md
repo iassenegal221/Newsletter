@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Offres de formations IAS][Offres-de-formations-IAS]](https://www.ias.sn/nos-formations)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -106,6 +106,8 @@ What makes this period exciting and enthralling for someone like me is the democ
 Today, as a data scientist, I can build data-crunching machines with complex algorithms for a few dollars per hour. But reaching here wasn’t easy! I had my dark days and nights.
 
 Are you a beginner looking for a place to start your data science journey? Presenting a list of comprehensive courses, full of knowledge and data science learning, curated just for you to learn data science (using Python) from scratch:
+
+[![Offres de formations IAS]](https://www.ias.sn/nos-formations)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
