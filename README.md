@@ -107,7 +107,7 @@ Today, as a data scientist, I can build data-crunching machines with complex alg
 
 Are you a beginner looking for a place to start your data science journey? Presenting a list of comprehensive courses, full of knowledge and data science learning, curated just for you to learn data science (using Python) from scratch:
 
-[![Offres de formations IAS]](https://www.ias.sn/nos-formations)
+[Offres de formations IAS](https://www.ias.sn/nos-formations)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
