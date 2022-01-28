@@ -8,4 +8,4 @@ read commit_msgs
 git add .
 git commit -m commit_msg
 git pull --rebase
-git push --set-upstream https://iassenegal221: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@github.com/iassenegal221/Newsletter.git master
+git push --set-upstream https://iassenegal221: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@github.com/iassenegal221/Newsletter.git main
